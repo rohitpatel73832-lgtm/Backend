@@ -1,0 +1,17 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "learning backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "rohit patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
